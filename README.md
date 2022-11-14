@@ -1,5 +1,5 @@
 <p></p>
-<img align="right" src="DPendulum.gif" ><h1 align="center">Hi 👋, I'm Simone Rotondi </h1></img>
+<img align="right" src="img/DPendulum.gif" ><h1 align="center">Hi 👋, I'm Simone Rotondi </h1></img>
 
 <h3 align="center">Control and Automation enthusiast from Italy</h3>
 
