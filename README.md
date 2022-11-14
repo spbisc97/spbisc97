@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Simone Rotondi</h1>
+<p></p>
+<img align="right" src="DPendulum.gif" ><h1 align="center">Hi 👋, I'm Simone Rotondi </h1></img>
+
 <h3 align="center">Control and Automation enthusiast from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spbisc97&label=Profile%20views&color=0e75b6&style=flat" alt="spbisc97" /> </p>
