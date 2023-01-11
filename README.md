@@ -24,3 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spbisc97&" alt="spbisc97" /></p>
 
+
+<!-- https://sean-coughlin.medium.com/market-yourself-with-a-killer-github-readme-cf529264453 -->
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
