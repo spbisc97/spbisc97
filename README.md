@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spbisc97&label=Profile%20views&color=0e75b6&style=flat" alt="spbisc97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=spbisc97" alt="spbisc97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=spbisc97/row=2" alt="spbisc97" /></a> </p>
 
 - 🌱 I’m currently learning **Cool Julia simulation with MeshCat**
 
