@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-stats-alpha.vercel.app/api?username=spbisc97&show_icons=true&locale=en" alt="spbisc97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=spbisc97&" alt="spbisc97" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=spbisc97&" alt="spbisc97" /></p> -->
 
 
 <!-- https://sean-coughlin.medium.com/market-yourself-with-a-killer-github-readme-cf529264453 -->
